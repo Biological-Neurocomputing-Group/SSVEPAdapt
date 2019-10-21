@@ -1,3 +1,15 @@
+#! /usr/bin/env python
+######################
+#
+# Tecnologías para la adaptación al usuario 
+# en interfaces cerebro-máquina basados 
+# en potenciales visuales evocados.
+# 
+# Aarón Pérez Martín - aapemar@gmail.com
+# Universidad Autónoma de Madrid - 2019
+#
+######################
+
 import os, time, copy, cmath
 import numpy as np
 import matplotlib.pyplot as plt
