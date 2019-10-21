@@ -8,3 +8,4 @@ For the user adaptation the platform allows you to find the best frequencies, ph
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 Pérez Martín, Aarón. "Tecnologías para la adaptación al usuario en interfaces cerebro-máquina basados en potenciales visuales evocados." Master's thesis, Universidad Autónoma de Madrid, 2019.
+https://repositorio.uam.es/handle/10486/688828
