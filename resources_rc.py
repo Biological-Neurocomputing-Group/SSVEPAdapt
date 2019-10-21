@@ -1,4 +1,14 @@
 # -*- coding: utf-8 -*-
+######################
+#
+# Tecnologías para la adaptación al usuario 
+# en interfaces cerebro-máquina basados 
+# en potenciales visuales evocados.
+# 
+# Aarón Pérez Martín - aapemar@gmail.com
+# Universidad Autónoma de Madrid - 2019
+#
+######################
 
 # Resource object code
 #
