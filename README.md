@@ -5,7 +5,7 @@ For the LED stimulation it is used through the graphical user interface GUI and 
 For the brain signals, Canonical Correlation Analysis is implemented to detect SSVEP signals.
 For the user adaptation the platform allows you to find the best frequencies, phases and electrodes for each user.
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-Pérez Martín, Aarón. "Tecnologías para la adaptación al usuario en interfaces cerebro-máquina basados en potenciales visuales evocados." Master's thesis, Universidad Autónoma de Madrid, 2019.
+Pérez Martín, Aarón. Technologies for user adaptation in brain-machine interfaces based on evoked visual potentials. Master's thesis, Autonomous University of Madrid, September 2019.
 https://repositorio.uam.es/handle/10486/688828
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. http://creativecommons.org/licenses/by-nc-sa/4.0/.
