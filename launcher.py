@@ -1,4 +1,14 @@
 #! /usr/bin/env python
+######################
+#
+# Tecnologías para la adaptación al usuario 
+# en interfaces cerebro-máquina basados 
+# en potenciales visuales evocados.
+# 
+# Aarón Pérez Martín - aapemar@gmail.com
+# Universidad Autónoma de Madrid - 2019
+#
+######################
 
 import sys, serial, os, shutil, subprocess, json, time, copy
 from time import gmtime, strftime
