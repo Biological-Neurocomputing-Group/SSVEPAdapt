@@ -8,6 +8,9 @@
 # Aarón Pérez Martín - aapemar@gmail.com
 # Universidad Autónoma de Madrid - 2019
 #
+# CC BY-NC-SA 4.0 License. 
+# http://creativecommons.org/licenses/by-nc-sa/4.0/
+#
 ######################
 
 # Resource object code
